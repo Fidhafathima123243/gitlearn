@@ -1,5 +1,5 @@
-# command for checkuing git version
->git --version
+print("hello world")
+print("fidha")
 
 
 
